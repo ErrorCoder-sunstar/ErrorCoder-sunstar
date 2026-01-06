@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI Chatbots and Assignments<br>👯 I’m looking to collaborate on Python and JavaScript<br>🤝 I’m looking for help with Java and Backend Developing<br>🌱 I’m currently learning Web Development<br>💬 Ask me about any AI Related<br>
+🔭 I’m currently working on AI Chatbots and Assignments<br>👯 I’m looking to collaborate on Python <br>🤝 I’m looking for help Backend Developing<br>🌱 I’m currently learning Web Development<br>💬 Ask me about any AI Related<br>
 
 
 ## 🌐 Socials:
